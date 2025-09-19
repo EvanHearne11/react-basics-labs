@@ -37,3 +37,9 @@ div {
   font-weight: bold;
   font-size: 1.2em; 
 }
+.priority {
+  font-size: 4.9em;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+}
